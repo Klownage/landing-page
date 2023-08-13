@@ -149,7 +149,7 @@ body > * {
     background-color: #3882F6;
     border-color: #E5E7EB;
     color: #E5E7EB;
-    border-radius: 10px;
+    border-radius: 10px;ottom: 3em;
     font-size: 18px;
     max-width: min-content;
     min-width: 90px;
@@ -165,4 +165,5 @@ body > * {
     color: #F9FAF8;
     font-size: 14px;
     padding: 2em;
+    overflow: hidden;
 }
